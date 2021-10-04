@@ -1,4 +1,4 @@
-# Embedded Systems Challenge for Spring 2021
+# Embedded Systems Challenge: Blood Pressure Monitor
 
 Description: [Link](Embedded%20Challenge%20S2021.pdf)
 
